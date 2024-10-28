@@ -16,6 +16,8 @@
                     <li><a href="#about" class="hover:text-gray-400">About</a></li>
                     <li><a href="#portfolio" class="hover:text-gray-400">Portofolio</a></li>
                     <li><a href="#contact" class="hover:text-gray-400">Contact</a></li>
+                    <li><a href="login" class="hover:text-gray-400">Login</a></li>
+                    <li><a href="about" class="hover:text-gray-400">About</a></li>
                 </ul>
             </nav>
         </div>
